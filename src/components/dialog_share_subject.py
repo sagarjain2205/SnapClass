@@ -11,7 +11,7 @@ def share_subject_dialog(
 ):
 
     app_domain = (
-        "https://snapclass-main.streamlit.app"
+        "https://snapclass.onrender.com"
     )
 
     join_url = (
