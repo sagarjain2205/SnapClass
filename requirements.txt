@@ -1,0 +1,23 @@
+# Utilitites 
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin #for face detection and recognition it gives face encodings
+git+https://github.com/ageitgey/face_recognition_models #face recognition model for python
+setuptools<70.0.0
+
+
+supabase #python client for supabase database
+bcrypt  #password hashing library for secure password storage
+
+
+
+segno #QR code generation library for python
+pillow  #Python Imaging Library for image processing tasks
+
+
+
+librosa #Python library for audio analysis and processing
+resemblyzer #Python library for speaker verification and voice analysis
