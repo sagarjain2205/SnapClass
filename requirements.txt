@@ -21,3 +21,5 @@ pillow  #Python Imaging Library for image processing tasks
 
 librosa #Python library for audio analysis and processing
 resemblyzer #Python library for speaker verification and voice analysis
+
+streamlit
