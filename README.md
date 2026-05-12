@@ -1,3 +1,5 @@
+
+  
 # 🎓 SnapClass - AI Powered Attendance System 🤖
 
 <div align="center">
@@ -13,7 +15,7 @@
 
 <br/>
 
-<a href="https://snapclass.onrender.com">
+<a href="https://snapclass-landingpage-mu.vercel.app">
   <img src="https://img.shields.io/badge/🚀_Landing_Page-Visit_Now-blue?style=for-the-badge">
 </a>
 
@@ -236,9 +238,8 @@ Features:
 
 # 🚀 Future Improvements
 
-- Real-time webcam attendance
+
 - Live classroom monitoring
-- Mobile responsive UI
 - Attendance graphs & analytics
 - Email notifications
 - Multi-teacher collaboration
