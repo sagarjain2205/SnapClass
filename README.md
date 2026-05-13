@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/🚀_Landing_Page-Visit_Now-blue?style=for-the-badge">
 </a>
 
-<a href="https://snapclass.onrender.com">
+<a href="https://snapclassattendance.streamlit.app">
   <img src="https://img.shields.io/badge/🎯_SnapClass_Website-Live_Demo-success?style=for-the-badge">
 </a>
 
